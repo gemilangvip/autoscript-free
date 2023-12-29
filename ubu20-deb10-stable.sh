@@ -251,7 +251,7 @@ echo -e " ━━━━━━━━━━━━━━━━━━━━━━━�
 read -p " Please select numbers 1-2 or Any Button(Random) : " host
 echo ""
 if [[ $host == "1" ]]; then
-echo -e "   \e[1;32mPlease Enter Your Subdomain $NC"
+echo -e " \e[1;32mPlease Enter Your Subdomain $NC"
 echo -e " \033[1;96m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e ""
 read -p " Masukan Domain : " host1
