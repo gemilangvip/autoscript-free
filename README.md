@@ -65,7 +65,7 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-free/main/updat
 ```
 
 ## TAMPILAN MENU SCRIPT
-<img width="100%" alt="Screenshot_20231229_194336" src="https://github.com/gemilangvip/autoscript-free/assets/154574742/1f5cf192-06d3-446e-844f-c218167f4ffb">
+<img width="100%" alt="Screenshot_20231230_112617" src="https://github.com/gemilangvip/autoscript-free/assets/154574742/66ea700d-59c9-418a-ac3d-d340e4564937">
 
 ## `! WARNING !`
 Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
