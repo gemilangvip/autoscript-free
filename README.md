@@ -37,7 +37,7 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-free/main/updat
 - Auto Reboot Vps Server
 - Backup And Restore
 - Bot Telegram Access
-- Autokill SSH
+- Autokill MultiLogin User
 - Lock Unlock SSH
 - Setting Limit SSH
 - Bandwidth Information
