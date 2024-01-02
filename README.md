@@ -31,10 +31,16 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-free/main/updat
 - DEBIAN Version 09 Atau 10
 
 ## FITUR TAMBAHAN
-- Pemasangan yang dinamis
+- Pemasangan yang Dinamis
 - User Details Akun
-- Auto delete expired
-- Auto reboot vps server
+- Auto Delete Expired
+- Auto Reboot Vps Server
+- Backup And Restore
+- Bot Telegram Access
+- Autokill SSH
+- Lock Unlock SSH
+- Setting Limit SSH
+- Bandwidth Information
 
 ## PORT INFO
 ```
@@ -49,7 +55,8 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-free/main/updat
 - VMESS GRPC 443
 - VMESS NONTLS 80
 - SSH WS / TLS 443
-- SSH NON TLS 8880
+- SSH NON TLS 8880, 80
+- SSH UDP 1-65535
 - OVPN SSL/TCP 1194
 - SLOWDNS 5300
 ```
