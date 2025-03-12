@@ -1,78 +1,73 @@
-## UPGRADE FOR DEBIAN
-Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
-```
-apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
-```
-
-##  UPGRADE FOR UBUNTU
-Masukkan perintah dibawah jika anda menggunakan OS Ubuntu Version 18 atau 20
-```
-apt update && apt upgrade -y && update-grub && sleep 2 && reboot
-```
-
 ## INSTALL SCRIPT 
-Masukkan perintah dibawah untuk menginstall Autoscript Premium by 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
+Install Autoscript Premium by Toko VPN
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-free/main/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
+apt update -y && apt upgrade -y && apt install -y && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && wget https://gmvpn.my.id/autoscript && chmod +x autoscript && ./autoscript
 ```
+## `BUY PREMIUM!`
+Toko VPN :
 
-## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-Gemilang Kinasih :
-<br><br><a href="https://wa.me/+628984880039" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+<a href="https://wa.me/+628984880039" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Click%20Here-success?style=flat&logo=whatsapp">
+</a>
+<a href="https://t.me/gemilangkinasih" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Click%20Here-0088CC?style=flat&logo=telegram">
+</a>
 
-## UPDATE SCRIPT
-Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
-```
-wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-free/main/update.sh && chmod +x update.sh && ./update.sh
-```
+## TESTED ON ALL OS
 
-## TESTED ON OS
-- UBUNTU Version 18 Atau 20 (Recommended)
-- DEBIAN Version 09 Atau 10
+| OS      | Versions    | Dropbear | Haproxy |
+|---------|-------------|----------|---------|
+| Ubuntu  | 20, 22, 24  | ✅      | ✅      |
+| Debian  | 10, 11, 12  | ✅      | ✅      |
 
-## FITUR TAMBAHAN
-- Pemasangan yang Dinamis
-- User Details Akun
-- Auto Delete Expired
-- Auto Reboot Vps Server
-- Backup And Restore
-- Bot Telegram Access
-- Autokill MultiLogin User
-- Lock Unlock SSH
-- Setting Limit SSH
-- Bandwidth Information
+## PREMIUM SCRIPT FEATURES
 
-## PORT INFO
-```
-- TROJAN WS 443
-- TROJAN GRPC 443
-- SHADOWSOCKS WS 443
-- SHADOWSOCKS GRPC 443
-- VLESS WS 443
-- VLESS GRPC 443
-- VLESS NONTLS 80
-- VMESS WS 443
-- VMESS GRPC 443
-- VMESS NONTLS 80
-- SSH WS / TLS 443
-- SSH NON TLS 8880, 80
-- SSH UDP 1-65535
-- OVPN SSL/TCP 1194
-- SLOWDNS 5300
-```
+| System Management    | User Control               | Network & Security   |
+|----------------------|----------------------------|----------------------|
+| Dynamic Installation | User Management            | Bandwidth Monitoring |
+| Auto-Reboot (95%)    | Auto-Delete Expired        | Fail2Ban Protection  |
+| Auto-Fix Xray        | Lock & Unlock              | Telegram Bot Access  |
+| Backup & Restore     | Limit IP & Quota           | Telegram Bot Notif   |
 
-## CLOUDFLARE SETTING
-```
-- SSL/TLS : FULL
-- SSL/TLS Recommender : OFF
-- GRPC : ON
-- WEBSOCKET : ON
-- Always Use HTTPS : OFF
-- UNDER ATTACK MODE : OFF
-```
+
+## MULTIPORT INFO
+
+| Service          | Protocol | Port     |
+|------------------|----------|----------|
+| SSH              | WS/TLS   | 443      |
+| SSH              | Non-TLS  | 8880, 80 |
+| SSH              | UDP      | 1-65535  |
+| OpenVPN          | SSL/TCP  | 1194     |
+| VMESS            | WS       | 443      |
+| VMESS            | gRPC     | 443      |
+| VMESS            | Non-TLS  | 80       |
+| VLESS            | WS       | 443      |
+| VLESS            | gRPC     | 443      |
+| VLESS            | Non-TLS  | 80       |
+| Trojan           | WS       | 443      |
+| Trojan           | gRPC     | 443      |
+
+## CLOUDFLARE SETTINGS
+
+| Setting             | Status |
+|---------------------|--------|
+| SSL/TLS             | FULL   |
+| SSL/TLS Recommender | OFF    |
+| gRPC                | ON     |
+| WebSocket           | ON     |
+| Always Use HTTPS    | OFF    |
+| Under Attack Mode   | OFF    |
 
 ## TAMPILAN MENU SCRIPT
-<img width="100%" alt="Screenshot_20231230_112617" src="https://github.com/gemilangvip/autoscript-free/assets/154574742/66ea700d-59c9-418a-ac3d-d340e4564937">
+<img width="100%" alt="autoscript-vip" src="https://github.com/tokovpn/autoscript-vip/raw/main/images/autoscript-vip.jpg">
+<img width="100%" alt="sshpremium" src="https://github.com/tokovpn/autoscript-vip/raw/main/images/sshpremium.jpg">
 
-## `! WARNING !`
-Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
+## `MEKANISME PENYEWAAN!`
+- Script `VIP` Last Update `Version 2.4`, Semua Fitur Pada Menu Utama Sudah Dioptimalkan Sehingga Meminimalisir Adanya `BUG`<br>
+
+Hubungi Admin Melalui Whatsaap Atau Telegram, Kirim `IP VPS` Dan `Lakukan Proses Pembayaran!`. Setelah Berhasil IP Akan Diinputkan Oleh - Admin Toko VPN
+
+
+
+
+
